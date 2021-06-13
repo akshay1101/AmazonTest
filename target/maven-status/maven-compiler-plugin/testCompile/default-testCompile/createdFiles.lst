@@ -1,0 +1,3 @@
+com\amazon\qa\testcases\LoginPageTestcase.class
+com\amazon\qa\testcases\HomePageTestcase.class
+com\amazon\qa\testcases\TodaysDealPageTestcase.class

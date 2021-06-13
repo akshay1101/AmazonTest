@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Amazon framework suite test cases]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.qa.ExtentReportListener.ExtentReportListener"/>
+  </listeners>
+  <test thread-count="5" name="Amazon Test suite (failed)">
+    <classes>
+      <class name="com.amazon.qa.testcases.HomePageTestcase">
+        <methods>
+          <include name="validateHomePageTitleTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.amazon.qa.testcases.HomePageTestcase -->
+    </classes>
+  </test> <!-- Amazon Test suite (failed) -->
+</suite> <!-- Failed suite [Amazon framework suite test cases] -->

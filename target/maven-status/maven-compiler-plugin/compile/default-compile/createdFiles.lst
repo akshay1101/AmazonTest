@@ -1,0 +1,12 @@
+com\amazon\qa\util\TestUtils.class
+com\qa\ExtentReportListener\ExtentReportListener.class
+com\amazon\qa\pages\CustomerServicePage.class
+com\amazon\qa\pages\SearchPage.class
+com\amazon\qa\pages\HomePage.class
+com\amazon\qa\pages\CartPage.class
+com\amazon\qa\pages\LoginPage.class
+com\amazon\qa\base\TestBase.class
+com\amazon\qa\pages\OrdersPage.class
+com\amazon\qa\pages\TodaysDealsPage.class
+com\amazon\qa\util\WebdriverEventListener.class
+com\amazon\qa\pages\ProductDetailPage.class
